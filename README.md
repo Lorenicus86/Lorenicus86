@@ -1,3 +1,5 @@
+![Background]([https://github.com/Lorenicus86/Lorenicus86/blob/main/fondo-color.jpg)
+
 - 👋 Hi, I’m @Lorenicus86
 - 👀 I’m interested in getting a job as a QA Engineer
 - 🌱 I have finished my QA engineer career at TRIPLETEN
